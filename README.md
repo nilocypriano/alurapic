@@ -1,16 +1,16 @@
 # Alurapic
-SPA developed during Angular training, on the Alura platform, using technologies such as Typescript, Angular, Bootstrap 4 and unit tests with Jasmine and Karma.
+  SPA developed during Angular training, on the Alura platform, using technologies such as Typescript, Angular, Bootstrap 4 and unit tests with Jasmine and Karma.
 
 During the process, I had contact with
-Dependency injection;
-API's consumption;
-Rxjs;
-Data paging;
-User authentication with automated and secure token submission;
-Lazy loading;
-Execution Platform Detection;
-Upload and progress mapping;
-error handling
+* Dependency injection;
+* API's consumption;
+* Rxjs;
+*  Data paging;
+* User authentication with automated and secure token submission;
+* Lazy loading;
+* Execution Platform Detection;
+* Upload and progress mapping;
+* Error handling
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
